@@ -203,7 +203,3 @@ npm start
 |**whitelisted**|PropTypes.array|NO||Provides whitelisted liquidity pools|
 |**defaultPool**|PropTypes.string|NO||Default pool |
 |**disablePoolCreation**|PropTypes.bool|NO|false|Remove pool creation menu from the widget |
-
-## License
-
-MIT © [pisuthd](https://github.com/pisuthd)
